@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhijeetsingh1704
 - 👀 I’m interested in Microbiology, genomics/metagenomics, transcriptomics/metatranscriptomics
 - 🌱 I’m currently learning machine learning for metagenomics
-- 💞️ I’m looking to collaborate on aspects related to omics application in microbiology
+- 💞️ I’m looking to collaborate on aspects related to omics applications in microbiology
 - 📫 How to reach me abhijeet.singh@slu.se or @abhijeet214 (twitter)
 
 <!---
